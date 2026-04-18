@@ -117,9 +117,11 @@
 <p align="center">
   <img src="./pic/6.png" width="600">
 </p>
+
 * 进入后可以删除 / 添加按钮
 * 如果想要添加一个按钮，直接选择后面的"自定义即可"
 * 添加多个按钮和解释，点击批量导入，一行是一个按钮
+
 <p align="center">
   <img src="./pic/7.png" width="600">
 </p>
